@@ -1,0 +1,24 @@
+https://github.com/airbnb/javascript
+https://eslint.org/
+
+npm install gitignore
+gitignore node //cria o gitignore automaticamente.
+
+npm install eslint --save-dev
+./node_modules/.bin/eslint --init
+./node_modules/.bin/eslint yourfile.js
+
+https://editorconfig.org/
+
+https://github.com/typicode/husky
+npm install husky@next --save-dev
+
+npm install --save-dev webpack babel-loader babel-core babel-preset-es2015-native-modules
+npm install --save-dev mocha chai
+
+npm run test //Executar test
+npm run -- --bail //Executar ate o primeiro erro
+
+npm install --save-dev babel-preset-env babel-register
+
+npm install --save-dev nyc
