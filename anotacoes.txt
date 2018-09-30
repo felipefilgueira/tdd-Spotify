@@ -22,3 +22,15 @@ npm run -- --bail //Executar ate o primeiro erro
 npm install --save-dev babel-preset-env babel-register
 
 npm install --save-dev nyc
+
+npm i --save-dev sinon sinon-chai sinon-stub-promise node-fetch
+
+npm install --sabe-dev babel-cli
+
+npm run build
+
+npm install --save-dev rimraf
+
+npm install --save-dev webpack babel-loader
+
+npm run build:umd
